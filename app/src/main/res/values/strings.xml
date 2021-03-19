@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GasCalc</string>
+    <string name="gasolina">Valor do Litro</string>
+    <string name="km">KM Rodado</string>
+    <string name="tempo">Valor por KM</string>
+    <string name="copyrigth">Powered by SKL InfoTech</string>
+</resources>

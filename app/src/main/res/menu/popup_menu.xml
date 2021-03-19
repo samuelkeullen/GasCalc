@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/op1"
+        android:title="Álcool" />
+    <item
+        android:id="@+id/op2"
+        android:title="Gasolina"/>
+    <item
+        android:id="@+id/op3"
+        android:title="Diesel"/>
+</menu>
